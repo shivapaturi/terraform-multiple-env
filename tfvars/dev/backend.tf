@@ -1,6 +1,6 @@
 
-bucket = "84s-remote-state-dev"
+bucket = "84ss-remote-state-dev"
 key    = "tfvars-demo"
 region = "us-east-1"
 encrypt        = true
-use_lockfile = true
+use_lockfile = true 
